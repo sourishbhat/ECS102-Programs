@@ -2,7 +2,7 @@
 
 int main() {
     int units;
-    float bill = 0.0;
+    float bill;
 
     printf("Enter the number of units consumed: ");
     scanf("%d", &units);
